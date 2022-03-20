@@ -26,13 +26,9 @@ export default function HTML(props) {
         ></style>
         <link
           rel="shortcut icon"
-          href="/playground_assets/favicon.ico"
+          href="/playground_assets/favicon.png"
           type="icon/png"
           sizes="32x32"
-        ></link>
-        <link
-          rel="stylesheet"
-          href="https://or-ins.info/fonts/FbSpoiler-Bold.css"
         ></link>
         <link
           rel="stylesheet"
@@ -76,12 +72,6 @@ export default function HTML(props) {
         ></meta>
         <meta charSet="utf-8"></meta>
         <meta property="twitter:card" content="summary_large_image"></meta>
-        <noscript
-          dangerouslySetInnerHTML={{
-            __html:
-              '</noscript><style>\n@font-face {\n    font-family: FbSpoiler-Light;\n    src: url("https://or-ins.info/wp-content/uploads/2022/03/FbSpoiler-Light.otf") format("opentype");\n}\n</style><noscript>',
-          }}
-        ></noscript>
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}

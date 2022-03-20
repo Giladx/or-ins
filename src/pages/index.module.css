@@ -1781,15 +1781,12 @@
   }
   .image04 {
     width: 100%;
-    height: 90%;
-    align-self: center;
     border-color: #f7d804;
     border-width: 1px;
-    padding-bottom: 0px;
     border-top-width: 0px;
     border-left-width: 0px;
     border-right-width: 0px;
-    border-bottom-width: 5px;
+    border-bottom-width: 10px;
   }
   .Sub-Title-Travel {
     width: 80%;
@@ -1889,8 +1886,9 @@
     border-color: #f7d804;
     border-width: 1px;
     border-top-width: 0px;
+    border-left-width: 0px;
     border-right-width: 0px;
-    border-bottom-width: 5px;
+    border-bottom-width: 10px;
   }
   .Sub-Title-Mortgage {
     height: auto;
@@ -2034,7 +2032,7 @@
     border-top-width: 0px;
     border-left-width: 0px;
     border-right-width: 0px;
-    border-bottom-width: 5px;
+    border-bottom-width: 10px;
   }
   .Sub-Title-House {
     height: auto;
@@ -2194,7 +2192,7 @@
     border-top-width: 0px;
     border-left-width: 0px;
     border-right-width: 0px;
-    border-bottom-width: 5px;
+    border-bottom-width: 10px;
   }
   .Sub-Title-Car {
     height: auto;

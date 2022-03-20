@@ -158,9 +158,8 @@ const Index = (props) => {
       </div>
       <div className={styles['Image-Travel']}>
         <img
+          src="/playground_assets/1.m11-1500w.jpg"
           alt="image"
-          src="/playground_assets/1.m-1500w.jpg"
-          loading="lazy"
           className={styles['image04']}
         />
       </div>
@@ -337,7 +336,7 @@ const Index = (props) => {
       <div className={styles['Image-Mortgage']}>
         <img
           alt="image"
-          src="/playground_assets/2.m-1500w.jpg"
+          src="/playground_assets/2.m2-1500w.jpg"
           loading="lazy"
           className={styles['image16']}
         />
@@ -399,7 +398,7 @@ const Index = (props) => {
       <div className={styles['Image-House']}>
         <img
           alt="image"
-          src="/playground_assets/3.m-1500w.jpg"
+          src="/playground_assets/3.m3-1500w.jpg"
           loading="lazy"
           className={styles['image21']}
         />
@@ -798,8 +797,8 @@ const Index = (props) => {
             <span className={styles['text64']}>6971054</span>
             <span className={styles['text65']}>|</span>
             <img
-              src="/playground_assets/g1774-200h.png"
               alt="image"
+              src="/playground_assets/g1774-200h.png"
               className={styles['image43']}
             />
             <a
