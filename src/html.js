@@ -32,11 +32,11 @@ export default function HTML(props) {
         ></link>
         <link
           rel="stylesheet"
-          href="https://or-ins.info/wp-content/uploads/2022/03/FbKazefet-Regular.otf"
+          href="https://or-ins.info/fonts/FbSpoiler-Bold.css"
         ></link>
         <link
           rel="stylesheet"
-          href="https://or-ins.info/wp-content/uploads/2022/03/FbSpoilerEng-Regular.otf"
+          href="https://or-ins.info/fonts/FbSpoiler-Light.css"
         ></link>
         <link
           rel="stylesheet"
@@ -44,11 +44,7 @@ export default function HTML(props) {
         ></link>
         <link
           rel="stylesheet"
-          href="https://or-ins.info/wp-content/uploads/2020/10/AnyConv.com__FbSpoiler-Regular.ttf"
-        ></link>
-        <link
-          rel="stylesheet"
-          href="https://or-ins.info/wp-content/uploads/2022/03/FbKazefet-Bold.otf"
+          href="https://or-ins.info/fonts/FbSpoiler_Regular.css"
         ></link>
         <link
           rel="stylesheet"
@@ -56,19 +52,23 @@ export default function HTML(props) {
         ></link>
         <link
           rel="stylesheet"
-          href="https://or-ins.info/wp-content/uploads/2022/03/FbSpoilerEng-Bold.otf"
+          href="https://or-ins.info/fonts/FbSpoilerEng-Regular.css"
         ></link>
         <link
           rel="stylesheet"
-          href="https://or-ins.info/wp-content/uploads/2022/03/FbSpoiler-Light.otf"
+          href="https://or-ins.info/fonts/FbSpoiler_Bold.css"
         ></link>
         <link
           rel="stylesheet"
-          href="https://or-ins.info/wp-content/uploads/2022/03/FbSpoiler-Bold.otf"
+          href="https://or-ins.info/fonts/FbKazefet-Regular.css"
         ></link>
         <link
           rel="stylesheet"
-          href="https://or-ins.info/wp-content/uploads/2020/10/AnyConv.com__FbSpoiler-Bold_0.ttf"
+          href="https://or-ins.info/fonts/FbKazefet-Bold.css"
+        ></link>
+        <link
+          rel="stylesheet"
+          href="https://or-ins.info/fonts/FbSpoilerEng-Bold.css"
         ></link>
         <meta
           name="viewport"
@@ -76,6 +76,12 @@ export default function HTML(props) {
         ></meta>
         <meta charSet="utf-8"></meta>
         <meta property="twitter:card" content="summary_large_image"></meta>
+        <noscript
+          dangerouslySetInnerHTML={{
+            __html:
+              '</noscript><style>\n@font-face {\n    font-family: FbSpoiler-Light;\n    src: url("https://or-ins.info/wp-content/uploads/2022/03/FbSpoiler-Light.otf") format("opentype");\n}\n</style><noscript>',
+          }}
+        ></noscript>
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}

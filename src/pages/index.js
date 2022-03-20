@@ -30,7 +30,7 @@ const Index = (props) => {
           <Link to="/" className={styles['navlink']}>
             <img
               alt="image"
-              src="/playground_assets/logo-1-300w.png"
+              src="/playground_assets/logo-1-400w.png"
               loading="lazy"
               className={styles['Logo-Or1']}
             />
@@ -41,7 +41,7 @@ const Index = (props) => {
           <Link to="/" className={styles['navlink1']}>
             <img
               alt="image"
-              src="/playground_assets/g782-200h.png"
+              src="/playground_assets/g782-400w.png"
               loading="lazy"
               className={styles['Logo-Noga1']}
             />
@@ -89,11 +89,18 @@ const Index = (props) => {
                 />
               </div>
               <div className={styles['container05']}>
-                <img
-                  alt="image"
-                  src="/playground_assets/botton-200h.png"
-                  className={styles['Button-Travel-Desktop']}
-                />
+                <a
+                  href="https://or-ins.info/noga/?input4=%D7%9E%D7%A9%D7%9B%D7%A0%D7%AA%D7%90"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className={styles['link']}
+                >
+                  <img
+                    alt="image"
+                    src="/playground_assets/botton-200h.png"
+                    className={styles['Button-Travel-Desktop']}
+                  />
+                </a>
               </div>
             </div>
           </div>
@@ -124,11 +131,18 @@ const Index = (props) => {
               <span className={styles['text09']}>!מהנמוכות בשוק</span>
             </div>
             <div className={styles['Travel-Button-Desktop']}>
-              <img
-                alt="image"
-                src="/playground_assets/botton-200h.png"
-                className={styles['Button-Travel-Desktop1']}
-              />
+              <a
+                href="https://or-ins.info/noga/?input4=%D7%97%D7%95%22%D7%9C"
+                target="_blank"
+                rel="noreferrer noopener"
+                className={styles['link01']}
+              >
+                <img
+                  alt="image"
+                  src="/playground_assets/botton-200h.png"
+                  className={styles['Button-Travel-Desktop1']}
+                />
+              </a>
             </div>
           </div>
         </div>
@@ -158,12 +172,19 @@ const Index = (props) => {
           </span>
           <span className={styles['text13']}>!מהנמוכות בשוק</span>
           <div className={styles['container07']}>
-            <img
-              alt="image"
-              src="/playground_assets/botton-200h.png"
-              loading="lazy"
-              className={styles['image05']}
-            />
+            <a
+              href="https://or-ins.info/noga/?input4=%D7%97%D7%95%22%D7%9C"
+              target="_blank"
+              rel="noreferrer noopener"
+              className={styles['link02']}
+            >
+              <img
+                alt="image"
+                src="/playground_assets/botton-200h.png"
+                loading="lazy"
+                className={styles['image05']}
+              />
+            </a>
           </div>
         </div>
       </div>
@@ -211,11 +232,18 @@ const Index = (props) => {
                 />
               </div>
               <div className={styles['container13']}>
-                <img
-                  alt="image"
-                  src="/playground_assets/botton-200h.png"
-                  className={styles['Button-Travel-Desktop2']}
-                />
+                <a
+                  href="https://or-ins.info/noga/?input4=%D7%A8%D7%9B%D7%91"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className={styles['link03']}
+                >
+                  <img
+                    alt="image"
+                    src="/playground_assets/botton-200h.png"
+                    className={styles['Button-Travel-Desktop2']}
+                  />
+                </a>
               </div>
             </div>
           </div>
@@ -272,11 +300,18 @@ const Index = (props) => {
                 />
               </div>
               <div className={styles['container22']}>
-                <img
-                  alt="image"
-                  src="/playground_assets/botton-200h.png"
-                  className={styles['Button-Travel-Desktop3']}
-                />
+                <a
+                  href="https://or-ins.info/noga/?input4=%D7%93%D7%99%D7%A8%D7%94"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className={styles['link04']}
+                >
+                  <img
+                    alt="image"
+                    src="/playground_assets/botton-200h.png"
+                    className={styles['Button-Travel-Desktop3']}
+                  />
+                </a>
               </div>
             </div>
           </div>
@@ -338,12 +373,19 @@ const Index = (props) => {
             </div>
           </div>
           <div className={styles['container30']}>
-            <img
-              alt="image"
-              src="/playground_assets/botton-200h.png"
-              loading="lazy"
-              className={styles['image20']}
-            />
+            <a
+              href="https://or-ins.info/noga/?input4=%D7%9E%D7%A9%D7%9B%D7%A0%D7%AA%D7%90"
+              target="_blank"
+              rel="noreferrer noopener"
+              className={styles['link05']}
+            >
+              <img
+                alt="image"
+                src="/playground_assets/botton-200h.png"
+                loading="lazy"
+                className={styles['image20']}
+              />
+            </a>
           </div>
         </div>
       </div>
@@ -402,12 +444,19 @@ const Index = (props) => {
           </div>
         </div>
         <div className={styles['container35']}>
-          <img
-            alt="image"
-            src="/playground_assets/botton-200h.png"
-            loading="lazy"
-            className={styles['image26']}
-          />
+          <a
+            href="https://or-ins.info/noga/?input4=%D7%93%D7%99%D7%A8%D7%94"
+            target="_blank"
+            rel="noreferrer noopener"
+            className={styles['link06']}
+          >
+            <img
+              alt="image"
+              src="/playground_assets/botton-200h.png"
+              loading="lazy"
+              className={styles['image26']}
+            />
+          </a>
         </div>
       </div>
       <div className={styles['Space-House']}></div>
@@ -424,7 +473,7 @@ const Index = (props) => {
       <div className={styles['Image-Car']}>
         <img
           alt="image"
-          src="/playground_assets/4.m-1500w.jpg"
+          src="/playground_assets/4.m4-1500w.jpg"
           loading="lazy"
           className={styles['image27']}
         />
@@ -465,18 +514,305 @@ const Index = (props) => {
           </div>
         </div>
         <div className={styles['container40']}>
-          <img
-            alt="image"
-            src="/playground_assets/botton-200h.png"
-            loading="lazy"
-            className={styles['image32']}
-          />
+          <a
+            href="https://or-ins.info/noga/?input4=%D7%A8%D7%9B%D7%91"
+            target="_blank"
+            rel="noreferrer noopener"
+            className={styles['link07']}
+          >
+            <img
+              alt="image"
+              src="/playground_assets/botton-200h.png"
+              loading="lazy"
+              className={styles['image32']}
+            />
+          </a>
         </div>
       </div>
       <div className={styles['Space-Car']}></div>
-      <div className={styles['Footer-Mobile']}></div>
-      <div className={styles['container41']}></div>
-      <div className={styles['Footer-Desktop']}></div>
+      <div className={styles['Footer-Mobile']}>
+        <div className={styles['All-Footer']}>
+          <div className={styles['Text-1-Footer']}>
+            <div className={styles['container41']}></div>
+            <div className={styles['container42']}>
+              <div className={styles['container43']}>
+                <span className={styles['text46']}>
+                  מוקד שירות ארצי:
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: ' ',
+                    }}
+                  />
+                </span>
+                <a href="tel:+9721700701701" className={styles['link08']}>
+                  1.700.701.701 |
+                </a>
+                <a
+                  href="https://or-ins.co.il"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className={styles['link09']}
+                >
+                  www.or-ins.co.il
+                </a>
+              </div>
+              <div className={styles['container44']}>
+                <a
+                  href="mailto:office@or-ins.co.il?subject="
+                  className={styles['link10']}
+                >
+                  office@or-ins.co.il |
+                </a>
+                <span className={styles['text47']}>
+                  מיקוד
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: ' ',
+                    }}
+                  />
+                </span>
+                <span className={styles['text48']}>6971054 |</span>
+                <a href="tel:+972548709999" className={styles['link11']}>
+                  054-8-709-999
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className={styles['Text-2-Footer']}>
+            <div className={styles['container45']}></div>
+            <div className={styles['container46']}>
+              <div className={styles['container47']}>
+                <span className={styles['text49']}>משרד ראשי:</span>
+                <a
+                  href="https://www.google.com/maps/place/%D7%A7%D7%95%D7%9E%D7%94+2,+HaBarzel+St+38,+Tel+Aviv-Yafo%E2%80%AD/@32.1105307,34.8403012,17z/data=!4m13!1m7!3m6!1s0x151d49eaed3bcd15:0x5532a8850731e66d!2z16fXldee15QgMiwgSGFCYXJ6ZWwgU3QgMzgsIFRlbCBBdml2LVlhZm8!3b1!8m2!3d32.1105307!4d34.8424899!3m4!1s0x151d49eaed3bcd15:0x5532a8850731e66d!8m2!3d32.1105307!4d34.8424899"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className={styles['link12']}
+                >
+                  רחוב הברזל 38 רמת החייל, תל אביב, קומה 2
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: ' ',
+                    }}
+                  />
+                </a>
+              </div>
+              <div className={styles['container48']}>
+                <div className={styles['container49']}>
+                  <span className={styles['text50']}></span>
+                  <span className={styles['text51']}>טל.</span>
+                </div>
+                <a href="tel:+97239274444" className={styles['link13']}>
+                  03-927-4444 |
+                </a>
+                <span className={styles['text52']}>פקס</span>
+                <span className={styles['text53']}>03-686-5800</span>
+              </div>
+              <span className={styles['text54']}>
+                פוליסה סוכנות לביטוח (2006) בע&quot;מ
+              </span>
+            </div>
+          </div>
+          <div className={styles['Icons-Footer']}>
+            <a
+              href="https://or-ins.co.il"
+              target="_blank"
+              rel="noreferrer noopener"
+              className={styles['link14']}
+            >
+              <img
+                alt="image"
+                src="/playground_assets/url-200h.png"
+                className={styles['image33']}
+              />
+            </a>
+            <a
+              href="mailto:office@or-ins.co.il?subject="
+              className={styles['link15']}
+            >
+              <img
+                alt="image"
+                src="/playground_assets/mail-200h.png"
+                className={styles['image34']}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/orinsurance"
+              target="_blank"
+              rel="noreferrer noopener"
+              className={styles['link16']}
+            >
+              <img
+                alt="image"
+                src="/playground_assets/fb-200h.png"
+                className={styles['image35']}
+              />
+            </a>
+            <a
+              href="https://www.instagram.com/explore/locations/101656154764985/"
+              target="_blank"
+              rel="noreferrer noopener"
+              className={styles['link17']}
+            >
+              <img
+                alt="image"
+                src="/playground_assets/insta-200h.png"
+                className={styles['image36']}
+              />
+            </a>
+            <a
+              href="https://www.tiktok.com/@or_insurance"
+              target="_blank"
+              rel="noreferrer noopener"
+              className={styles['link18']}
+            >
+              <img
+                alt="image"
+                src="/playground_assets/tiktok-200h.png"
+                className={styles['image37']}
+              />
+            </a>
+          </div>
+        </div>
+      </div>
+      <div className={styles['container50']}></div>
+      <div className={styles['Footer-Desktop']}>
+        <div className={styles['container51']}>
+          <a
+            href="https://or-ins.co.il"
+            target="_blank"
+            rel="noreferrer noopener"
+            className={styles['link19']}
+          >
+            <img
+              alt="image"
+              src="/playground_assets/url-200h.png"
+              className={styles['image38']}
+            />
+          </a>
+          <a
+            href="mailto:office@or-ins.co.il?subject="
+            className={styles['link20']}
+          >
+            <img
+              alt="image"
+              src="/playground_assets/mail-200h.png"
+              className={styles['image39']}
+            />
+          </a>
+          <a
+            href="https://www.facebook.com/orinsurance"
+            target="_blank"
+            rel="noreferrer noopener"
+            className={styles['link21']}
+          >
+            <img
+              alt="image"
+              src="/playground_assets/fb-200h.png"
+              className={styles['image40']}
+            />
+          </a>
+          <a
+            href="https://www.instagram.com/explore/locations/101656154764985/"
+            target="_blank"
+            rel="noreferrer noopener"
+            className={styles['link22']}
+          >
+            <img
+              alt="image"
+              src="/playground_assets/insta-200h.png"
+              className={styles['image41']}
+            />
+          </a>
+          <a
+            href="https://www.tiktok.com/@or_insurance"
+            target="_blank"
+            rel="noreferrer noopener"
+            className={styles['link23']}
+          >
+            <img
+              alt="image"
+              src="/playground_assets/tiktok-200h.png"
+              className={styles['image42']}
+            />
+          </a>
+        </div>
+        <div className={styles['container52']}></div>
+        <div className={styles['container53']}>
+          <div className={styles['container54']}>
+            <span className={styles['text55']}>משרד ראשי:</span>
+            <a
+              href="https://www.google.com/maps/place/%D7%A7%D7%95%D7%9E%D7%94+2,+HaBarzel+St+38,+Tel+Aviv-Yafo%E2%80%AD/@32.1105307,34.8403012,17z/data=!4m13!1m7!3m6!1s0x151d49eaed3bcd15:0x5532a8850731e66d!2z16fXldee15QgMiwgSGFCYXJ6ZWwgU3QgMzgsIFRlbCBBdml2LVlhZm8!3b1!8m2!3d32.1105307!4d34.8424899!3m4!1s0x151d49eaed3bcd15:0x5532a8850731e66d!8m2!3d32.1105307!4d34.8424899"
+              target="_blank"
+              rel="noreferrer noopener"
+              className={styles['link24']}
+            >
+              רחוב הברזל 38 רמת החייל, תל אביב, קומה 2
+            </a>
+            <span className={styles['text56']}>
+              טל.
+              <span
+                dangerouslySetInnerHTML={{
+                  __html: ' ',
+                }}
+              />
+            </span>
+            <a href="tel:+97239274444" className={styles['link25']}>
+              039274444
+            </a>
+            <span className={styles['text57']}>פקס</span>
+            <span className={styles['text58']}>036865800</span>
+            <span className={styles['text59']}>
+              פוליסה סוכנות לביטוח (2006) בע&quot;מ
+            </span>
+          </div>
+          <div className={styles['container55']}>
+            <span className={styles['text60']}>מוקד שירות ארצי:</span>
+            <a href="tel:+9721700701701" className={styles['link26']}>
+              1.700.701.701
+            </a>
+            <span className={styles['text61']}>
+              |
+              <span
+                dangerouslySetInnerHTML={{
+                  __html: ' ',
+                }}
+              />
+            </span>
+            <a
+              href="mailto:office@or-ins.co.il?subject="
+              className={styles['link27']}
+            >
+              office@or.ins.co.il
+            </a>
+            <span className={styles['text62']}>|</span>
+            <a
+              href="https://or-ins.co.il"
+              target="_blank"
+              rel="noreferrer noopener"
+              className={styles['link28']}
+            >
+              www.or-ins.co.il
+            </a>
+            <span className={styles['text63']}>מיקוד</span>
+            <span className={styles['text64']}>6971054</span>
+            <span className={styles['text65']}>|</span>
+            <img
+              src="/playground_assets/g1774-200h.png"
+              alt="image"
+              className={styles['image43']}
+            />
+            <a
+              href="https://wa.me/0548709999"
+              target="_blank"
+              rel="noreferrer noopener"
+              className={styles['link29']}
+            >
+              054-8-709-999
+            </a>
+          </div>
+        </div>
+      </div>
       <div className={styles['Space-Bottom']}></div>
     </div>
   )

@@ -76,6 +76,13 @@
 .teleport-show {
   display: flex !important;
 }
+.fb-Spoiler {
+  font-size: 14px;
+  font-family: FbSpoilerEng-Regular;
+  font-weight: 500;
+  text-transform: none;
+  text-decoration: none;
+}
 .heading {
   font-size: 32px;
   font-family: Inter;
