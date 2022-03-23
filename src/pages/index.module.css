@@ -532,13 +532,7 @@
   justify-content: center;
 }
 .Text-12 {
-  color: #f7d804;
-  width: 100%;
-  font-size: 2.6vw;
-  font-style: normal;
-  text-align: center;
-  font-family: Assistant;
-  font-weight: 800;
+  text-shadow: 0 0 2px #fff, 0 0 3px #fff, 0 0 4px #fff, 0 0 5px #fff, 0 0 6px #fff, 0 0 7px #fff, 0 0 8px #fff;
 }
 .Text-22 {
   color: #ffffff;

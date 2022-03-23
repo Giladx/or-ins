@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 
 import { Helmet } from 'react-helmet'
 
+import projectStyles from '../style.module.css'
 import styles from './index.module.css'
 
 const Index = (props) => {
@@ -158,8 +159,8 @@ const Index = (props) => {
       </div>
       <div className={styles['Image-Travel']}>
         <img
-          src="/playground_assets/1.m11-1500w.jpg"
           alt="image"
+          src="/playground_assets/1.m11-1500w.jpg"
           className={styles['image04']}
         />
       </div>
@@ -192,7 +193,11 @@ const Index = (props) => {
         <div className={styles['container08']}>
           <div className={styles['container09']}>
             <div className={styles['Title-Travel-Text-Desktop1']}>
-              <span className={styles['Text-12']}>הטבת נהג צעיר</span>
+              <span
+                className={` ${styles['Text-12']} ${projectStyles['glow']} `}
+              >
+                הטבת נהג צעיר
+              </span>
               <span className={styles['Text-22']}>
                 <span>משלמים רק על רכב אחד</span>
                 <br></br>

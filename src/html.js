@@ -72,6 +72,12 @@ export default function HTML(props) {
         ></meta>
         <meta charSet="utf-8"></meta>
         <meta property="twitter:card" content="summary_large_image"></meta>
+        <noscript
+          dangerouslySetInnerHTML={{
+            __html:
+              '</noscript><style>\n@-webkit-keyframes glow {\n  from {\n    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #f7d804, 0 0 40px #f7d804, 0 0 50px #f7d804, 0 0 60px #f7d804, 0 0 70px #f7d804;\n  }\n  \n  to {\n    text-shadow: 0 0 20px #fff, 0 0 30px #f7d804, 0 0 40px #f7d804, 0 0 50px #f7d804, 0 0 60px #f7d804, 0 0 70px #f7d804, 0 0 80px #f7d804;\n  }\n}\n</style><noscript>',
+          }}
+        ></noscript>
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}

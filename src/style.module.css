@@ -76,6 +76,15 @@
 .teleport-show {
   display: flex !important;
 }
+.glow {
+  color: #f7d804;
+  width: 100%;
+  font-size: 2.6vw;
+  font-style: normal;
+  text-align: center;
+  font-family: Assistant;
+  font-weight: 800;
+}
 .fb-Spoiler {
   font-size: 14px;
   font-family: FbSpoilerEng-Regular;
@@ -99,3 +108,6 @@
   text-transform: none;
   text-decoration: none;
 }
+
+
+
